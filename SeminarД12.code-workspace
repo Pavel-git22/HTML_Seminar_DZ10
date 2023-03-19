@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Temp/SeminarД12"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DZ_shop"
+	}
+}
